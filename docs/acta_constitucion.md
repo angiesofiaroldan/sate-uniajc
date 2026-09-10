@@ -13,10 +13,10 @@
 
 | Nombre Completo | Usuario GitHub | Rol Inicial (Sprint 1) | Firma Digital |
 | :--- | :--- | :--- | :--- |
-| **Angie Sofia Roldan Ferrin** | `@` | 🔑 **Product Owner (PO)** | *A.S.R.F.* |
-| **Jose Nery Sanchez** | `@` | 🛡️ **Scrum Master (SM)** | *J.N.S.* |
-| **Joiner Stiven Estupiñan Garcia** | `@` | 💻 **Developer 1** | *J.S.E.G.* |
-| **Carlos Eiber Quiñones** | `@` | 💻 **Developer 2** | *C.E.Q.* |
+| **Angie Sofia Roldan Ferrin** | `@angiesofiaroldan` | 🔑 **Product Owner (PO)** | *A.S.R.F.* |
+| **Jose Nery Sanchez** | `@josenerysanchez` | 🛡️ **Scrum Master (SM)** | *J.N.S.* |
+| **Joiner Stiven Estupiñan Garcia** | `@joinerstivenestupiñan` | 💻 **Developer 1** | *J.S.E.G.* |
+| **Carlos Eiber Quiñones** | `@carloseiberquiñones` | 💻 **Developer 2** | *C.E.Q.* |
 
 ---
 

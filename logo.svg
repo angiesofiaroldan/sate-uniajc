@@ -1,31 +1,18 @@
-<svg xmlns="http://w3.org" viewBox="0 0 500 500" width="100%" height="100%">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
-    </linearGradient>
-  </defs>
-
-  <!-- Escudo -->
-  <path d="M250,40 L400,110 L400,260 C400,360 250,440 250,440 C250,440 100,360 100,260 L100,110 Z" fill="url(#bgGrad)" stroke="#475569" stroke-width="6"/>
-
+<svg xmlns="http://w3.org" viewBox="0 0 500 500">
+  <!-- Fondo Escudo -->
+  <path d="M250,40 L400,110 L400,260 C400,360 250,440 250,440 C250,440 100,360 100,260 L100,110 Z" fill="#0f172a" stroke="#475569" stroke-width="6"/>
   <!-- Alertas -->
   <path d="M160,250 A90,90 0 0,1 340,250" fill="none" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 12"/>
   <path d="M190,250 A60,60 0 0,1 310,250" fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round"/>
-
-  <!-- Barras -->
+  <!-- Barras Analiticas -->
   <rect x="205" y="270" width="22" height="50" rx="4" fill="#3b82f6" />
   <rect x="238" y="240" width="22" height="80" rx="4" fill="#10b981" />
   <rect x="272" y="210" width="22" height="110" rx="4" fill="#6366f1" />
-
   <!-- Nodo Central -->
   <circle cx="250" cy="140" r="14" fill="#ef4444" />
   <circle cx="250" cy="140" r="25" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="6 4"/>
-
-  <!-- Líneas -->
   <line x1="250" y1="165" x2="250" y2="210" stroke="#3b82f6" stroke-width="4" />
-
-  <!-- Texto -->
-  <text x="250" y="390" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-weight="900" font-size="42" letter-spacing="4">SATE</text>
-  <text x="250" y="415" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-weight="600" font-size="14" letter-spacing="2">UNIAJC MONITORING</text>
+  <!-- Texto Principal -->
+  <text x="250" y="390" text-anchor="middle" fill="#ffffff" font-family="Arial" font-weight="900" font-size="42">SATE</text>
+  <text x="250" y="415" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-weight="600" font-size="14">UNIAJC MONITORING</text>
 </svg>

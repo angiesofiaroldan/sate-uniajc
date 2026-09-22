@@ -1,0 +1,3 @@
+- Spring Boot Starter Web (Para la API del sistema)
+- PostgreSQL Driver (Para conectar la Base de Datos)
+- Spring Boot Starter Test (Para las pruebas unitarias)

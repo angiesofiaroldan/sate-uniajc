@@ -13,14 +13,14 @@
 
 | Nombre Completo | Usuario GitHub | Rol Inicial (Sprint 1) | Firma Digital |
 | :--- | :--- | :--- | :--- |
-| **Angie Sofia Roldan Ferrin** | `@angiesofiaroldan` | 🔑 **Product Owner (PO)** | *A.S.R.F.* |
-| **Jose Nery Sanchez** | `@josenerysanchez` | 🛡️ **Scrum Master (SM)** | *J.N.S.* |
-| **Joiner Stiven Estupiñan Garcia** | `@joinerstivenestupiñan` | 💻 **Developer 1** | *J.S.E.G.* |
-| **Carlos Eiber Quiñones** | `@carloseiberquiñones` | 💻 **Developer 2** | *C.E.Q.* |
+| **Angie Sofia Roldan Ferrin** | `@angiesofiaroldan` |  **Product Owner (PO)** | *A.S.R.F.* |
+| **Jose Nery Sanchez** | `@josenerysanchez` |  **Scrum Master (SM)** | *J.N.S.* |
+| **Joiner Stiven Estupiñan Garcia** | `@joinerstivenestupiñan` |  **Developer 1** | *J.S.E.G.* |
+| **Carlos Eiber Quiñones** | `@carloseiberquiñones` |  **Developer 2** | *C.E.Q.* |
 
 ---
 
-### 🛠️ Alcance Global del Sistema (Módulos Requeridos)
+###  Alcance Global del Sistema (Módulos Requeridos)
 
 * **Módulo de Registro Académico:** Interfaz y API para que los docentes registren la asistencia clase a clase y carguen las notas parciales.
 * **Motor de Reglas de Alerta:** Algoritmo configurable que dispara alertas automáticas por colores:

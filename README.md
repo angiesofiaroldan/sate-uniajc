@@ -2,7 +2,7 @@
 node_modules/
 npm-debug.log*
 
-# Entorno local y claves secretas (Seguridad ISO 25010)
+# Entorno local y claves secretas
 .env
 .env.local
 .env.development.local

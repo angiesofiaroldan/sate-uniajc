@@ -1,36 +1,50 @@
-<p align="center">
- <img src="logo.svg" alt="SATE-UNIAJC Logo" width="300">
-
-</p>
-
-# Proyecto Integrador: SATE-UNIAJC 🚀
-## Módulo: Autenticación y Acceso Seguro (Sprint 1)
-
-###   Descripción del Problema e Incremento
-Este repositorio contiene el incremento funcional del Sprint 1 enfocado en resolver la falta de un control de accesos centralizado y la gestión de roles en la institución. El objetivo principal es proporcionar un entorno funcional, intuitivo y seguro para que docentes, estudiantes y directores puedan ingresar a SATE-UNIAJC bajo credenciales validadas.
+#  Proyecto Integrador: SATE-UNIAJC
+### **Sistema de Alertas Tempranas y Acompañamiento Estudiantil**
+**Asignatura:** Ingeniería de Software I (Grupo IS1-4)  
+**Período:** 2-2026 (Semestre 4)  
+**Institución:** Institución Universitaria Antonio José Camacho
 
 ---
 
-###   Sprint Goal (Meta del Sprint)
-"Implementar un módulo funcional y seguro de autenticación y gestión de usuarios para que la comunidad universitaria acceda al sistema según sus permisos asignados."
+##  Visión del Producto (Product Vision Statement)
+**Para** los Directores de Programa de Ingeniería de la UNIAJC, el sistema **SATE-UNIAJC** es una plataforma de software web de gestión académica que automatiza la detección temprana de estudiantes en riesgo de deserción y el agendamiento de tutorías. 
+
+**A diferencia de** los reportes manuales tardíos actuales en plantillas de Excel, nuestro producto provee **alertas tempranas en tiempo real** y un flujo de comunicación bidireccional ágil entre estudiantes, docentes y consejeros académicos.
 
 ---
 
-###   Estrategia de Ramas (GitFlow)
-Para garantizar la estabilidad del software, el repositorio cuenta con un flujo formal de integración de código:
-*   `main`: Rama de producción estable.
-*   `develop`: Rama activa de desarrollo y pruebas. Todo el código del incremento pasa primero por esta rama para validación antes de combinarse con producción.
+##  Alcance Global del Sistema (Módulos Requeridos)
+
+*   **Módulo de Registro Académico:** Interfaz y API para que los docentes registren la asistencia clase a clase y carguen las notas parciales.
+*   **Motor de Reglas de Alerta:** Algoritmo configurable que dispara alertas automáticas por colores:
+    *   🔴 **Alerta Roja:** Inasistencia mayor al 15% o promedio inferior a 3.0.
+    *   🟡 **Alerta Amarilla:** Promedio académico entre 3.0 y 3.4.
+*   **Portal de Acompañamiento:** Agendamiento automatizado de tutorías académicas con docentes y citas psicopedagógicas con Bienestar Estudiantil.
+*   **Dashboard Analítico:** Visualizaciones gráficas para Directores de Programa para inspeccionar la tasa de deserción proyectada por cohorte y medir la efectividad de las tutorías.
 
 ---
 
-###   Calidad del Producto (ISO/IEC 25010)
-*   **Seguridad:** Contraseñas encriptadas mediante la función hash `bcrypt`. Sesiones protegidas con tokens `JWT` con expiración automática de tiempo.
-*   **Usabilidad:** Interfaz responsive (móvil/web) adaptada con validaciones en tiempo real y mensajes de error descriptivos.
-*   **Mantenibilidad:** Arquitectura limpia separada por capas bien definidas (Controladores, Servicios y Repositorios).
+##  Acta de Constitución del Equipo Scrum
+
+>  *Nota pedagógica: Los roles asignados a continuación son iniciales para el Sprint 1 y rotarán obligatoriamente a partir del Sprint 3 según el acuerdo del curso.*
+
+*   **Nombre del Equipo Scrum:** `CamachoDevs`
+*   **Stack Tecnológico Propuesto:** JavaScript (Node.js / React)
+
+### **Tabla de Integrantes y Asignación de Roles**
+
+| Nombre Completo | Usuario GitHub | Rol Inicial (Sprint 1) | Firma Digital |
+| :--- | :--- | :--- | :--- |
+| **Angie Sofia Roldan Ferrin** | `@` |  **Product Owner (PO)** | *A.S.R.F.* |
+| **Jose Nery Sanchez** | `@` |  **Scrum Master (SM)** | *J.N.S.* |
+| **Joiner Stiven Estupiñan Garcia** | `@` |  **Developer 1** | *J.S.E.G.* |
+| **Carlos Eiber Quiñones** | `@` |  **Developer 2** | *C.E.Q.* |
 
 ---
 
-### ✅ Definition of Done (DoD) - Lista de Verificación
-- [x] Código fuente integrado en la rama `develop` y probado sin conflictos.
-- [x] Formulario de Login funcional con flujos validados (exitosos y fallidos).
-- [x] Documentación técnica y archivo `.gitignore` configurados correctamente.
+## 📌 Checklist de Infraestructura - Fase 1 (Sesión 6)
+- [ ] Crear el repositorio público en GitHub con el nombre `sate-uniajc`.
+- [ ] Añadir a los 4 integrantes como colaboradores del repositorio.
+- [ ] Configurar el archivo `.gitignore` adecuado para el proyecto.
+- [ ] Completar los nombres de usuario de GitHub (`@`) en esta tabla.
+- [ ] Guardar una copia de este documento en la ruta `/docs/acta_constitucion.md`.

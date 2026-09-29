@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://githubusercontent.com" alt="SATE-UNIAJC Logo" width="300">
+ <img src="logo.svg" alt="SATE-UNIAJC Logo" width="300">
+
 </p>
 
 # Proyecto Integrador: SATE-UNIAJC 🚀

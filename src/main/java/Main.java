@@ -18,13 +18,15 @@ public class Main {
         String password = teclado.nextLine();
 
         System.out.println("\n[PROCESANDO] Validando credenciales y generando token JWT...");
-                if ((correo.endsWith("@uniajc.edu.co") || correo.endsWith("@estudiante.uniajc.edu.co")) && !password.isEmpty()) {
-
-        if (correo.endsWith("@uniajc.edu.co") && !password.isEmpty()) {
+        
+        // CONDICIÓN CORREGIDA: Acepta tanto @uniajc.edu.co como @estudiante.uniajc.edu.co
+        if ((correo.endsWith("@uniajc.edu.co") || correo.endsWith("@estudiante.uniajc.edu.co")) && !password.isEmpty()) {
             System.out.println("\n[ÉXITO] Autenticación correcta. Token JWT generado.");
             System.out.println("[OK] Redirigiendo al usuario según su rol de acceso.");
         } else {
             System.out.println("\n[ERROR 401] Credenciales incorrectas o correo no institucional.");
         }
+        
+        teclado.close();
     }
 }

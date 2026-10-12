@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="docs/logo.svg" alt="CamachoDevs Logo"width="260">
-</p>
+![Logo CamachoDevs](docs/logo.svg)
+
 
 
 

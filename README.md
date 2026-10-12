@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co" alt="CamachoDevs Logo" width="260">
+  <img src="docs/logo.svg" alt="CamachoDevs Logo"width="260">
 </p>
 
 

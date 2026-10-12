@@ -1,7 +1,6 @@
 <p align="center">
   <img src="logo.svg" alt="SATE-UNIAJC Logo" width="220">
 </p>
-
 #  Proyecto Integrador: SATE-UNIAJC
 ### **Sistema de Alertas Tempranas y Acompañamiento Estudiantil**
 **Asignatura:** Ingeniería de Software I (Grupo IS1-4)  

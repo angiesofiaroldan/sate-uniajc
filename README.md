@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://ibb.co" alt="CamachoDevs Logo" width="260">
+</p>
+
+
+
+
 #  Proyecto Integrador: SATE-UNIAJC
 ### **Sistema de Alertas Tempranas y Acompañamiento Estudiantil**
 **Asignatura:** Ingeniería de Software I (Grupo IS1-4)  

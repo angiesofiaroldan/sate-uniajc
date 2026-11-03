@@ -48,7 +48,7 @@
 | Nombre Completo | Usuario GitHub | Rol Inicial (Sprint 1) | Firma Digital |
 | :--- | :--- | :--- | :--- |
 | **Angie Sofia Roldan Ferrin** | `@angiesofiaroldan` |  **Product Owner (PO)** | *A.S.R.F.* |
-| **Jose Nery Sanchez** | `@josenerysanchez0-maker` |  **Scrum Master (SM)** | *J.N.S.* |
+| **Jose Nery Sanchez** | `@jnsanchez` |  **Scrum Master (SM)** | *J.N.S.* |
 | **Joiner Stiven Estupiñan Garcia** | `@joinerstivenestupinan` |  **Developer 1** | *J.S.E.G.* |
 | **Carlos Eiber Quiñonez Castillo** | `@carloseiberquinonez` | **Developer 2** | *C.E.Q.C.* |
 

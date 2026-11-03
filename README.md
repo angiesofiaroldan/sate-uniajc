@@ -1,3 +1,5 @@
+![CI](https://github.com/angiesofiaroldan/sate-uniajc/actions/workflows/ci.yml/badge.svg)
+
 <p align="center">
   <img src="https://githubusercontent.com" alt="CamachoDevs Logo" width="240">
 </p>

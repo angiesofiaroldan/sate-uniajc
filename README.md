@@ -49,7 +49,7 @@
 | :--- | :--- | :--- | :--- |
 | **Angie Sofia Roldan Ferrin** | `@angiesofiaroldan` |  **Product Owner (PO)** | *A.S.R.F.* |
 | **Jose Nery Sanchez** | `@josenerysanchez` |  **Scrum Master (SM)** | *J.N.S.* |
-| **Joiner Stiven Estupiñan Garcia** | `@joinerstivenestupiñan` |  **Developer 1** | *J.S.E.G.* |
+| **Joiner Stiven Estupiñan Garcia** | `@joinerstivenestupinan` |  **Developer 1** | *J.S.E.G.* |
 | **Carlos Eiber Quiñonez Castillo** | `@carloseiberquinonez` | **Developer 2** | *C.E.Q.C.* |
 
 ---

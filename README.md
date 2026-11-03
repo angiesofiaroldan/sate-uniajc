@@ -41,7 +41,7 @@
 >  *Nota pedagógica: Los roles asignados a continuación son iniciales para el Sprint 1 y rotarán obligatoriamente a partir del Sprint 3 según el acuerdo del curso.*
 
 *   **Nombre del Equipo Scrum:** `CamachoDevs`
-*   **Stack Tecnológico Propuesto:** JavaScript (Node.js / React)
+*   **Stack Tecnológico Propuesto:** JavaScript Java 17, Maven y JUnit 5
 
 ### **Tabla de Integrantes y Asignación de Roles**
 
